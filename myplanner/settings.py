@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-j7^f7%9)+5udrevsx-5@-ca22c*if+#pmv=q97+1(1!1l(z17l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [https://valentines.up.railway.app/]
+ALLOWED_HOSTS = ['https://valentines.up.railway.app/']
 
 cloudinary.config( 
   cloud_name = "linetlucy", 
